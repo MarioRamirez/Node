@@ -5,8 +5,7 @@ function iniciar(response, postData) {
 
   var body = '<html>'+
     '<head>'+
-    '<meta http-equiv="Content-Type" content="text/html; 
-        charset=UTF-8" />'+
+    '<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />'+
     '</head>'+
     '<body>'+
     '<form action="/subir" method="post">'+
